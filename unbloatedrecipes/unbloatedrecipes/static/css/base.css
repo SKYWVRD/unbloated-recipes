@@ -1,3 +1,9 @@
-body {
-    background-color: grey;
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.navbar-toggler-icon {
+    background-image: url("../img/hamburger.png")
 }
